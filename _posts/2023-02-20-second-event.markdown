@@ -12,4 +12,6 @@ The event is a workshop focused on helping participants get comfortable with "th
 
 Registration is currently full at 30 participants, but we may add a few more seats and look to a larger venue in the future.
 
+[Registration Page on Eventbrite](https://www.eventbrite.ie/e/improve-problem-solving-skills-in-coding-tickets-547822520907){:target="_blank"}{:rel="noopener noreferrer"}
+
 Don't forget to bring your laptop (and probably your charger)!
