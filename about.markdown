@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are She and They do Science and Tech (STST), or ST-squared for short. We're a group of women and non-binary people in STEM research, specializing in data analytics and software development, looking to help uplift and support gender minorities in our disciplines.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We are located in Galway, Ireland, hosted at the Data Science Institute-- the iteration of Science Foundation Ireland's Insight Centre for Data Analytics affiliated with the University of Galway.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+We will be hosting workshops and skillshares in the west of Ireland, starting February 22nd, 2023.
