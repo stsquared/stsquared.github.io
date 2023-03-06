@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Upcoming Event"
 date:   2023-02-20 16:10:00 +0000
 categories: events
