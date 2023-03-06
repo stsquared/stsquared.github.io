@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Welcome to STST"
 date:   2023-02-20 10:16:04 +0000
 categories: about events
