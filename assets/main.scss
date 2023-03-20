@@ -5,7 +5,7 @@
 @import "minima";
 
 .site-title::before {
-	content: url("/favicon.png");
+	content: url("/_includes/favicon.png");
 	display: inline-block;
 	position: relative;
 	width: 37px;
