@@ -4,7 +4,7 @@ title:  "Upcoming Event"
 date:   2023-02-20 16:10:00 +0000
 categories: events
 ---
-![flyer](/assets/IMG_3963.jpg)
+![flyer](/media/IMG_3963.jpg)
 
 Our second event will be taking place this upcoming Wednesday, February 22nd, 2023, from 1-4pm at the Data Science Insititute in the IDA Business Park.
 
